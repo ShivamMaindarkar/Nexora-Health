@@ -1,6 +1,6 @@
 # Nexora Health — Real-World Static Version
 
-A privacy-first personal health organizer that does NOT use Claude/Anthropic and does not require an API key.
+A privacy-first personal health organizer 
 
 Features:
 - Dashboard
